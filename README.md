@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-gif-coding-discover-share-gifs--858428378991517366%2F&psig=AOvVaw2uFXL5w9ici-ZCdEBzA8ip&ust=1703090825689000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjsiqCCnIMDFQAAAAAdAAAAABAI)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammed Osman</h1>
 <h3 align="center">Active learner who love math ,statistic and coding</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fwez%2Fwezterm%2Fissues%2F4131&psig=AOvVaw2uFXL5w9ici-ZCdEBzA8ip&ust=1703090825689000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjsiqCCnIMDFQAAAAAdAAAAABAD">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medo469" alt="medo469" /></a> </p>
 
 - 🔭 I’m currently working on **java**
